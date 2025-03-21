@@ -1,0 +1,5 @@
+name=input("enter name")
+gmail=input("enter gmail")
+number=input("enter number")
+adress=input("enter adress")
+print("show",name,gmail,number,adress)
